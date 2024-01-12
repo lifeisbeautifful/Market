@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Market</id>
+    <version>1.0.0</version>
+    <authors>Market</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Oksana\source\repos\Market\Market\bin\Debug\net7.0\Market.runtimeconfig.json" target="lib\net7.0\Market.runtimeconfig.json" />
+    <file src="C:\Users\Oksana\source\repos\Market\Market\bin\Debug\net7.0\Market.dll" target="lib\net7.0\Market.dll" />
+  </files>
+</package>
